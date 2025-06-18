@@ -1,6 +1,6 @@
 ## Contexte:
 
-Pour réaliser ce test nous vous laissons **1h30**. L'objectif sera de compléter et d'ajouter le maximum des fonctionnalités qui sont listées ci-dessous. Les squelettes de la partie cliente et serveur vous seront fourni au démarrage de votre test technique. La base de données vous sera transmise au travers d'un fichier **dump** qui sera dans le dépôt du serveur dans le répertoire **database/dump/**.
+Pour réaliser ce test nous vous laissons **1h30**. L'objectif sera de compléter et d'ajouter le maximum des fonctionnalités qui sont listées ci-dessous. Les squelettes de la partie cliente et serveur vous seront fourni au démarrage de votre test technique. La base de données vous sera transmise au travers d'un fichier **dump** qui sera dans le dépôt du serveur dans le répertoire **database/** (pensez à la restaurer pour l'utiliser).
 Il vous faudra alors créer une **biffurcation** ( *Fork* ) de ces dépôts puis réaliser le maximum des taches qui vous sont demandé. Au bout du temps imparti, nous vous demanderons de faire une **demande d'ajout** ( *Pull Request* ) sur les dépôts **originaux** sur une branche qui portera votre nom. Il est primordial que le client et le serveur puissent être lancé sans *bug* à la fin de votre production indépendemment des tâches réalisées.
 
 ## Détail des stacks à utiliser:
