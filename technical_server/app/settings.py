@@ -6,7 +6,8 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 class Settings(BaseSettings):
     app_name: str = "TechnicalServer"
     admin_email: str = "none@entropy.sc"
-
+    database_url: str = "postgresql://user:password@host:port/db"
+    
     debug: bool = True
     host: str = "localhost"
     port: int = 18080
