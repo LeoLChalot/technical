@@ -4,7 +4,7 @@ from datetime import datetime
 class Project(BaseModel):
     id: int
     name: str
-    enabled: str
+    enabled: bool
     create_on: datetime
     update_on: datetime
 
